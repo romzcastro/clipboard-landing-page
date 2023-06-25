@@ -50,7 +50,7 @@ select {
 }
 
 body {
-  background-image: url(/images/bg-header-mobile.png);
+  background-image: url(./images/bg-header-mobile.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center top;
@@ -201,7 +201,7 @@ ul li a {
 }
 @media screen and (min-width: 48em) {
   body {
-    background-image: url(/images/bg-header-desktop.png);
+    background-image: url(./images/bg-header-desktop.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center top;
